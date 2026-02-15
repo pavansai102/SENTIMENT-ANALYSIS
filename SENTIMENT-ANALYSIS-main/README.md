@@ -3,9 +3,7 @@
 
 *COMPANY *: CODTECH IT SOLUTIONS
 
-*NAME *: Yogesh S
-
-*INTERN ID *: CTIS3967
+*NAME *: venkata sai pavan
 
 *DOMAIN *: Data Analysis
 
@@ -104,12 +102,3 @@ Output:
 
 This project demonstrates how NLP techniques can be used to extract meaningful insights from text data.
 Sentiment analysis plays a crucial role in understanding customer feedback, social media opinions, and market trends.
-
-
-👤 Author
-
-Name: Yogesh S
-
-Domain: Data Analytics
-
-
